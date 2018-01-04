@@ -1,0 +1,5 @@
+import sys
+
+b = sys.argv
+b.delete[0]
+print(" ".join(sys.argv))
